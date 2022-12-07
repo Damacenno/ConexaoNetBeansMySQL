@@ -10,7 +10,7 @@ O link de conexão é - > (jdbc:mysql://127.0.0.1:3306/java","root","")
 
 Onde "root" é o o usuário de conexão no banco de dados e as aspas em branco é a senha.
 
-=======================================================================================
+=======================================================================
 
 Possível erro - > É capaz que, dependendo da configuração da sua máquina, ao rodar seu
 programa a IDE acuse erro de conexão, declarando que o link de comunicação foi inváli-
