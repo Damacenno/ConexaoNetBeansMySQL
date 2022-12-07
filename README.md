@@ -13,9 +13,8 @@ Onde "root" é o o usuário de conexão no banco de dados e as aspas em branco �
 =======================================================================
 
 Possível erro - > É capaz que, dependendo da configuração da sua máquina, ao rodar seu
-programa a IDE acuse erro de conexão, declarando que o link de comunicação foi inváli-
-do. Caso isso aconteça, experimente trocar a porta presente no link de conexão do JDBC
-para 3307.
+programa a IDE acuse erro de conexão, declarando que o link de comunicação foi inválido.
+Caso isso aconteça, experimente trocar a porta presente no link de conexão do JDBC para 3307.
 
 Obs: Não sei explicar ao certo o porque disso, o que posso afirmar é que isso tem a ver
 com a porta de conexão com a internet da máquina.
